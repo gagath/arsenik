@@ -45,4 +45,4 @@
   mwr (mwheel-right 50 120)
 )
 
-;; vim: set ft=lisp
+;; vim: set ft=lisp:
